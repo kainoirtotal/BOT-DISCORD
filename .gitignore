@@ -1,0 +1,6 @@
+# Environnements virtuels et fichiers temporaires
+.venv/
+__pycache__/
+*.pyc
+.env
+token.env
